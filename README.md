@@ -35,4 +35,4 @@ Ensure you have the following prerequisites installed:
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone https://github.com/ektaghosh20/dbms-project
